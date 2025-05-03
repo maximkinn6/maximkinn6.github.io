@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "title"
-description: "description"
+title: Книжный чат
+description: description
 ---
 
 Чат для обмена книгами.
