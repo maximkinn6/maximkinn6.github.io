@@ -9,4 +9,4 @@ description: "Кто я и чем занимаюсь"
 Меня зовут Максим, и это моя страница на GitHub Pages.
 
 - [[books_chat]]
-- 
+- [[books_chat2]]
