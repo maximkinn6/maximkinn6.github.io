@@ -13,4 +13,4 @@ description: description
 Полезная информация:
 @books_fine_faq1
 
-![[Screenshot_2025-05-04-00-49-33-112_org.telegram.messenger.web.jpg]]
+![](attachments/Screenshot_2025-05-04-00-49-33-112_org.telegram.messenger.web.jpg)
