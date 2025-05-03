@@ -1,9 +1,7 @@
 ---
 layout: default
-title: "Главная"
+title: "title"
+description: "description"
 ---
 
-# Добро пожаловать!
-
-- [Обо мне](about.md)
-- [Проекты](projects.md)
+#
