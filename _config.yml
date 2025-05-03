@@ -1,0 +1,15 @@
+# Основные настройки
+title: "Мой сайт"        # Заголовок сайта
+description: "Персональная страница"  # Описание
+baseurl: ""              # Оставьте пустым для username.github.io
+url: "https://maximkinn6.github.io"  # Ваш URL
+
+# Настройки Jekyll
+theme: minima             # Стандартная тема GitHub
+plugins:         # Плагин для RSS-ленты (включен по умолчанию)
+
+# Обработка Markdown
+markdown: kramdown       # Движок для MD
+kramdown:
+  input: GFM             # Поддержка GitHub Flavored Markdown
+  syntax_highlighter: rouge  # Подсветка кода
