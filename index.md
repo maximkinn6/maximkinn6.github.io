@@ -8,5 +8,5 @@ description: "Кто я и чем занимаюсь"
 
 Меня зовут Максим, и это моя страница на GitHub Pages.
 
-- [Ссылка на проект](project.md)
-- [Мой GitHub](https://github.com/maximkinn6)
+- [[books_chat]]
+- 
