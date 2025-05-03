@@ -1,0 +1,5 @@
+# _config.yml
+theme: minima  # Стандартная тема
+plugins:
+  - jekyll-feed
+markdown: kramdown  # Рендеринг Markdown
