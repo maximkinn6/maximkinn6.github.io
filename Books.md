@@ -8,6 +8,82 @@ database-plugin: basic
 name: books
 description: new description
 columns:
+  layout:
+    input: text
+    accessorKey: layout
+    label: layout
+    key: layout
+    id: layout
+    position: 0
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  title:
+    input: text
+    accessorKey: title
+    label: title
+    key: title
+    id: title
+    position: 1
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  description:
+    input: text
+    accessorKey: description
+    label: description
+    key: description
+    id: description
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  database-plugin:
+    input: text
+    accessorKey: database-plugin
+    label: database-plugin
+    key: database-plugin
+    id: database-plugin
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
   __file__:
     key: __file__
     id: __file__
@@ -88,12 +164,12 @@ config:
   font_size: 16
   enable_js_formulas: false
   formula_folder_path: /
-  inline_default: false
+  inline_default: true
   inline_new_position: last_field
   date_format: yyyy-MM-dd
   datetime_format: "yyyy-MM-dd HH:mm:ss"
   metadata_date_format: "yyyy-MM-dd HH:mm:ss"
-  enable_footer: false
+  enable_footer: true
   implementation: default
 filters:
   enabled: false
