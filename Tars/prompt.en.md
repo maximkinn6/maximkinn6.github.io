@@ -22,9 +22,12 @@ Tell me a joke
 #NewChat 
 
 
-#DeepSeek :
+#DeepSeek :привет
 
----
+#Deepuser : Tell me a joke
+---  
+
+#DeepSeek : 
 
 # Translation
 
