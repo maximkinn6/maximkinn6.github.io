@@ -19,6 +19,11 @@ Tell me a joke
 ---
 Время сейчас
 
+#NewChat 
+
+
+#DeepSeek :
+
 ---
 
 # Translation
