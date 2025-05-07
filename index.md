@@ -13,4 +13,7 @@ description: "Кто я и чем занимаюсь"
 - [[books_chat]]
 - [[books_chat2]]
 
+#DeepSeek : #NewChat 
+Привет
+
 #DeepSeek : 
