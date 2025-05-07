@@ -16,4 +16,5 @@ description: "Кто я и чем занимаюсь"
 #DeepSeek : #NewChat 
 Привет
 
-#DeepSeek : 
+#DeepSeek : скажи
+/
