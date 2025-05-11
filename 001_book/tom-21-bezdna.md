@@ -20,6 +20,7 @@ status: В процессе
 url: https://author.today/work/433893
 first_book_url: https://author.today/work/67908
 character_stats_url: https://author.today/work/433919
+chapter: 21
 ---
 Большая Гонка заканчивается, однако мало ее закончить, нужно еще суметь выбраться живым наружу. А это не так просто, особенно, если у тебя свой маршрут...
 
