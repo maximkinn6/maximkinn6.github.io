@@ -11,7 +11,7 @@ genre:
   - Боевая фантастика
   - Попаданцы в магические миры
   - РеалРПГ
-series: 
+series: "[[../_fit/001_book/_series/Drugaya_storona|Drugaya_storona]]"
 price: 159 ₽
 word_count: 359 288 зн.
 pages: 8.98 а.л.
