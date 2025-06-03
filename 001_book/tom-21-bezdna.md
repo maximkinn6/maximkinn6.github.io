@@ -15,12 +15,12 @@ series: "[[../_fit/001_book/_series/Drugaya_storona|Drugaya_storona]]"
 price: 159 ₽
 word_count: 359 288 зн.
 pages: 8.98 а.л.
-status: В процессе
+status: Done
 url: https://author.today/work/433893
 first_book_url: https://author.today/work/67908
 character_stats_url: https://author.today/work/433919
 chapter: 21
-glava: "20"
+glava: "28"
 ---
 Большая Гонка заканчивается, однако мало ее закончить, нужно еще суметь выбраться живым наружу. А это не так просто, особенно, если у тебя свой маршрут...
 
