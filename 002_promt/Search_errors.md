@@ -2,6 +2,7 @@
 layout: default
 title: "title"
 description: "description"
+aliases: "Поиск ошибок промта"
 ---
 # Поиск проблем промпта через вопрос ответ
 
